@@ -36,7 +36,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for browsing mo
 - State Management: useState, useEffect
 - Component-based architecture
 
-- **Backend (Node.js + Express):**
+ **Backend (Node.js + Express):**
 
 - Node.js
 - Express.js
