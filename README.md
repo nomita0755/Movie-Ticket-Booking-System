@@ -2,6 +2,22 @@
 ---
 A full-stack MERN (MongoDB, Express, React, Node.js) application for browsing movies, selecting seats, and booking movie tickets online. This system includes complete frontend and backend projects, designed for real-world functionality with clean UI and fully functional APIs.
 
+![glimps!](Home2.jpeg)
+
+![glimps!](Home.jpeg)
+
+![glimps!](MovieInfo.jpeg)
+
+![glimps!](Screen.jpeg)
+
+![glimps!](Seat.jpeg)
+
+![glimps!](Payment.jpeg)
+
+![glimps!](Qr.jpeg)
+
+![glimps!](EmailConfirmation.jpeg)
+
 ---
 
 ## 🚀 Features
